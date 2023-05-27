@@ -1,0 +1,34 @@
+{
+    "login": [
+        "BEM/BEP",
+        "Payworks",
+        "Factura Electrónica",
+        "Depósito Remoto",
+        "Débito Empresarial"
+    ],
+    "intro": "Te apoyamos para construir un mejor futuro\nImpulsamos tus proyectos para lograr éxito en tu negocio",
+    "buttons": [
+        {
+            "name": "COTICE EN LÍNEA",
+            "content": "Planee su presupuesto, con Banorte a su lado, todos sus proyectos empresariales son posibles."
+        },
+        {
+            "name": "SEGURIDAD",
+            "contenmt": "En una era en donde el mundo digital está cobrando más relevancia por su practicidad y rapidez, es importante que conozca y esté preparado para reaccionar a tiempo ante los riesgos que puede correr su dinero."
+        },
+        {
+            "name": "CENTRO DE AYUDA",
+            "content": "Bienvenido, le ofrecemos ayuda rápida para resolver sus dudas más importantes.            "
+        }
+    ],
+    "extra_content": [
+        {
+            "name": "SPID",
+            "content": "Sistema de Pagos Interbancarios en Dólares, la nueva forma de hacer pagos nacionales en dólares de su empresa."
+        },
+        {
+            "name": "Financieras Integrales",
+            "content": "Ponemos a disposición de su empresa un sistema de asesoría e información dedicados a mantener sus finanzas saludables."
+        }
+    ]
+}
