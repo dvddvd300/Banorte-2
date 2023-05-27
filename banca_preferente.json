@@ -1,7 +1,69 @@
 {
+    "login": [
+        "Banco en linea",
+        "Patrimonio Integral Banorte ",
+        "Banorte VisaTravel Money",
+        "Afore en tu Casa",
+        "Depósito Remoto",
+        "Cartas de Crédito por Internet"
+    ],
     "intro": "La Banca que va más allá\nExperiencias de acuerdo a tu estilo de vida",
-    "dev": "Aprende con Banorte Banca Preferente\nTodo lo que debes saber y más para tu día a día",
-    "sqs": [
+    "second_text": "Aprende con Banorte Banca Preferente\nTodo lo que debes saber y más para tu día a día",
+    "middle_squares": [
+        {
+            "name": "Banca preferente",
+            "tabs": [
+                {
+                    "name": "PENSAMOS EN TI",
+                    "content": "En Banorte hemos diseñado una banca donde tu eres lo mas importante."
+                },
+                {
+                    "name": "SOLUCIONES CON VALOR",
+                    "content": "Estamos contigo en cada etapa de tu vida con las soluciones adecuadas a tu estilo."
+                }
+            ]
+        },
+        {
+            "name": "Productos exclusivos",
+            "tabs": [
+                {
+                    "name": "BENEFICIOS EN CUENTAS E INVERSIONES",
+                    "content": "Haz crecer tu patrimonio con diferentes soluciones que Banorte Banca Preferente ha creado para ti."
+                },
+                {
+                    "name": "BENEFICIOS EN CREDITOS",
+                    "content": "Alcanza tus metas por medio de nuestros distintos productos que se adaptan a tu estilo de vida."
+                },
+                {
+                    "name": "BENEFICIOS EN SEGUROS",
+                    "content": "Disfruta de la tranquilidad de saber que tú y tu familia están protegidos."
+                },
+                {
+                    "name": "TARJETS EN CRÉDITOS PREFERENTES",
+                    "content": "Una Aliada que se adapta a ti"
+                }
+            ]
+        },
+        {
+            "name": "Como ser cliente preferente",
+            "tabs": [
+                {
+                    "name": "REQUISITOS",
+                    "content": "Descubre como disfrutar de los beneficios que tiene ser Cliente Preferente Banorte."
+                }
+            ]
+        },
+        {
+            "name": "Beneficios de ser Cliente Preferente",
+            "tabs": [
+                {
+                    "name": "TU ATENCIÓN ES NUESTRA PRIORIDAD",
+                    "content": "Buscamos ofrecerte el mejor servicio en todos los medios de contacto"
+                }
+            ]
+        }
+    ],
+    "news_squares": [
         {
             "title": "CONOCE LOS BENEFICIOS DE SER PREFERENTE",
             "subt": "En Banca Preferente sabemos lo importante que es tu tiempo, por eso te damos beneficios exclusivos para hacer tu vida más fácil, ¡conócelos!"
@@ -19,12 +81,42 @@
             "subt": " Banorte Banca Preferente tiene para ti garantía de gastos no reconocidos extendida en comercios internacionales."
         },
         {
-            "title" : "BANCA PREFERENTE TE BRINDA LA ATENCIÓN QUE NECESITAS",
-            "subt" : "Con Banca Preferente cuentas con el respaldo necesario para cumplir tus metas financieras, ya que tienes beneficios exclusivos que te permitirán lograrlo."
+            "title": "BANCA PREFERENTE TE BRINDA LA ATENCIÓN QUE NECESITAS",
+            "subt": "Con Banca Preferente cuentas con el respaldo necesario para cumplir tus metas financieras, ya que tienes beneficios exclusivos que te permitirán lograrlo."
         },
         {
-            "title" : "CLUB HÍPICO COAPEXPAN, CELEBRA 26 AÑOS CON PRUEBAS DE ALTO NIVEL",
-            "subt" : "Club Hípico Coapexpan celebra su aniversario 26, el cual durante dos semanas, reunirá a jinetes y amazonas en pruebas de alto nivel, las cuales prometen emocionar a los asistentes. Sé parte de este evento ecuestre."
+            "title": "CLUB HÍPICO COAPEXPAN, CELEBRA 26 AÑOS CON PRUEBAS DE ALTO NIVEL",
+            "subt": "Club Hípico Coapexpan celebra su aniversario 26, el cual durante dos semanas, reunirá a jinetes y amazonas en pruebas de alto nivel, las cuales prometen emocionar a los asistentes. Sé parte de este evento ecuestre."
+        }
+    ],
+    "tabs": [
+        {
+            "name": "FACILITA TU DÍA A DÍA",
+            "tabs": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06"
+            ]
+        },
+        {
+            "name" : "ADMINISTRA TU PATRIMONIO",
+            "tabs" : [
+                "07", 
+                "08",
+                "09",
+                "10"
+            ]
+        },
+        {
+            "name" : "ALCANZA TUS METAS",
+            "tabs" : [
+                "11",
+                "12"
+            
+            ]
         }
     ]
 }
