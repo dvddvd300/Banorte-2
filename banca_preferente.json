@@ -1,0 +1,30 @@
+{
+    "intro": "La Banca que va más allá\nExperiencias de acuerdo a tu estilo de vida",
+    "dev": "Aprende con Banorte Banca Preferente\nTodo lo que debes saber y más para tu día a día",
+    "sqs": [
+        {
+            "title": "CONOCE LOS BENEFICIOS DE SER PREFERENTE",
+            "subt": "En Banca Preferente sabemos lo importante que es tu tiempo, por eso te damos beneficios exclusivos para hacer tu vida más fácil, ¡conócelos!"
+        },
+        {
+            "title": "PORTABILIDAD DE NÓMINA, ¿QUÉ ES Y CÓMO SOLICITARLA?",
+            "subt": "Conoce la definición de Portabilidad de Nómina, el proceso y los requisitos que necesitas para solicitarla; así como los beneficios que te da Banorte."
+        },
+        {
+            "title": "SOLICITA TU TURNO PARA SUCURSAL POR WHATSAPP",
+            "subt": "Ya no esperes más, obtén tu turno Preferente por WhatsApp fácilmente y dile adiós a las filas"
+        },
+        {
+            "title": "GARANTÍAS EXTENDIDAS",
+            "subt": " Banorte Banca Preferente tiene para ti garantía de gastos no reconocidos extendida en comercios internacionales."
+        },
+        {
+            "title" : "BANCA PREFERENTE TE BRINDA LA ATENCIÓN QUE NECESITAS",
+            "subt" : "Con Banca Preferente cuentas con el respaldo necesario para cumplir tus metas financieras, ya que tienes beneficios exclusivos que te permitirán lograrlo."
+        },
+        {
+            "title" : "CLUB HÍPICO COAPEXPAN, CELEBRA 26 AÑOS CON PRUEBAS DE ALTO NIVEL",
+            "subt" : "Club Hípico Coapexpan celebra su aniversario 26, el cual durante dos semanas, reunirá a jinetes y amazonas en pruebas de alto nivel, las cuales prometen emocionar a los asistentes. Sé parte de este evento ecuestre."
+        }
+    ]
+}
