@@ -1,0 +1,19 @@
+{
+    "login":{
+        "cuentas": 
+        ["BEM/BP",
+        "Payworks",
+        "Factura Electrónica", 
+        "Depósito Remoto",
+        "Débito Emprasarial"]
+    },
+
+    "conoce más":{
+        "enlaces":"Conoce los beneficios addicionales de tener tu cuenta Enlace global PM o Enlace Negocios Avanzada",
+        "seguridad": "Conoce el procedimiento para cambiar tu contraseña"
+    },
+    "Finanzas":{
+        "educación financiera": "https://www.abm.org.mx/PGEF/",
+        "indicadores financieros": "https://www.banorte.com/wps/portal/banorte/Home/indicadores/dolares-y-divisas"
+    }
+} 
