@@ -1,19 +1,44 @@
 {
-    "login":{
-        "cuentas": 
-        ["BEM/BP",
-        "Payworks",
-        "Factura Electrónica", 
-        "Depósito Remoto",
-        "Débito Emprasarial"]
+    "login": {
+        "cuentas": [
+            "BEM/BP",
+            "Payworks",
+            "Factura Electrónica",
+            "Depósito Remoto",
+            "Débito Emprasarial"
+        ]
     },
-
-    "conoce más":{
-        "enlaces":"Conoce los beneficios addicionales de tener tu cuenta Enlace global PM o Enlace Negocios Avanzada",
-        "seguridad": "Conoce el procedimiento para cambiar tu contraseña"
-    },
-    "Finanzas":{
-        "educación financiera": "https://www.abm.org.mx/PGEF/",
-        "indicadores financieros": "https://www.banorte.com/wps/portal/banorte/Home/indicadores/dolares-y-divisas"
-    }
-} 
+    "second_text" : "Te apoyamos para construir un mejor futuro\nImpulsamos tus proyectos para lograr éxito en tu negocio",
+    "know_more" : [
+        {
+            "name" : "EN EQUIPO SOMOS MÁS FUERTES",
+            "content" : "Conoce los beneficios addicionales de tener tu cuenta Enlace global PM o Enlace Negocios Avanzada"
+        },
+        {
+            "name" : "PORQUE QUEREMOS PROTEGER TU NEGOCIO",
+            "content": "Conoce el procedimiento para cambiar tu contraseña"
+        }
+    ],
+    "center_buttons" : [
+        {
+            "name" : "Educación Financiera",
+            "content" : "https://www.abm.org.mx/PGEF/"
+        },
+        {
+            "name" : "Indicadores Financieros",
+            "content" : "https://www.banorte.com/wps/portal/banorte/Home/indicadores/dolares-y-divisas"
+        }
+    ],
+    "tabs" : [
+        {
+            "name" :"FINANCIAMIENTO",
+            "tabs" : "22"
+        },
+        {
+            "name" : "Cuentas e inversión",
+            "tabs" : [
+                
+            ]
+        }
+    ]
+}
